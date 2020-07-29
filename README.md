@@ -2,7 +2,7 @@
 
 - [Dan Vine](http://www.danvine.com/) (based on Bootstrap Resume template)
 - [Portfolio Template](https://portfolio-template.surge.sh/)
-- [Dev Portfolio](https://ryanfitzgerald.github.io/devportfolio/)
+- [Dev Portfolio]()
 - [Bill Martin](http://billmartin.io/) (based on Freelancer theme)
 
 # Templates for portfolio pages
